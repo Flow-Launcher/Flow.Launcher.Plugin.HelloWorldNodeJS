@@ -2,7 +2,7 @@
   "ID": "427af2d93887868f8179665uy661c6c3",
   "ActionKeyword": "hn",
   "Name": "Hello World Node.js",
-  "Description": "Node.js Hello World example plugin",
+  "Description": "TypeScript/JavaScript plugin example using Node.js",
   "Author": "Flow Launcher",
   "Version": "1.0.0",
   "Language": "executable",
