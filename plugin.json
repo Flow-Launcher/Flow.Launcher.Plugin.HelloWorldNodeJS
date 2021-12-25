@@ -1,0 +1,12 @@
+{
+  "ID": "427af2d93887868f8179665uy661c6c3",
+  "ActionKeyword": "hn",
+  "Name": "Hello World Node.js",
+  "Description": "Node.js Hello World example plugin",
+  "Author": "Flow Launcher",
+  "Version": "1.0.0",
+  "Language": "executable",
+  "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.HelloWorldNodeJS",
+  "ExecuteFileName": "node.bat",
+  "IcoPath": "Images\\app.png"
+}
